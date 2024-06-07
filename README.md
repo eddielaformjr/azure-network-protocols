@@ -28,10 +28,10 @@ In this walkthrough, we'll perform the following file server management tasks
 <h3>Launch Server Manager and Hyper-V Manager</h3>
 
 <p align="center">
-<a href="https://imgur.com/yXFOgcw"><img src="https://i.imgur.com/yXFOgcw.png" title="source: imgur.com" height="70%" width="70%" alt="Step 1- Launch Server Manager Hyper-V Manager" /></a>
+<a href="[https://imgur.com/yXFOgcw](https://imgur.com/a/ytvIkD3
+)"><img src="https://i.imgur.com/yXFOgcw.png" title="source: imgur.com" height="70%" width="70%" alt="Step 1- Launch Server Manager Hyper-V Manager" /></a>
 </p>
 
-https://imgur.com/a/ytvIkD3
 <h3>Switch to the CorpFiles16 Server</h3>
 
 <p align="center">
